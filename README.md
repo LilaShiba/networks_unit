@@ -18,7 +18,7 @@
 ### Product Examples
 
 |Media Type| What                                           | Link         
-|----------|------------------------------------------------|-------------------------------------------------------------------
+|----------|------------------------------------------------|---------------------------------------------------------------------------
 | Video    | Wall Street Journal explains net neutrality    | [Net Neutrality Explained]("https://www.youtube.com/watch?v=p90McT24Z6w")
 | Game     | models how fake news is spread online          | [Bad News]("https://www.getbadnews.com/#play")
 | Website  | An online field guide to network infrastructure| [Networks of New York]("http://seeingnetworks.in/nyc/")
