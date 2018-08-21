@@ -2,6 +2,31 @@
 
 **Goal**: Create a product to better explain the internet or to make the internet better
 
+# Playlist Overview for Build a Better Web
+
+| Goal                                        | Method         
+| --------------------------------------------|------------------------------------------------------------------------------
+| Annotated Readings of five sources          | [check list](#)
+| FAQ Participation                           | [Lab 0](#)
+| Find three original sources                 | [Lab 1](#)
+| Create a Startup                            | [what?](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/2/README.md#startup-overview)
+| Debate                                      | Prepare for and conduct [debate](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/README.md#debate)
+| Teacher Check-ins                           | Minimum three per group
+| Ted talk or Pitch of Startup                | What makes [sense]() 
+| Daily Ideas and Tasks                       | [Who did what]()
+
+# Class Links:
+
+| What                                        | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| Mr. James meeting sign up                   | [link]("#")
+| Mr. Moran meeting sign up                   | [link]("#")
+| Mrs. Ju meeting sign up                     | [link]("#")
+| Mr. New Guy sign up                         | [link]("#")
+| Digital FAQ                                 | [link]("#")
+| Analog FAQ                                  | [link]("#")
+
+
 ### Areas of Focus
 
 #### How does the internet work?
