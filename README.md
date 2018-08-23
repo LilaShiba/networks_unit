@@ -6,14 +6,22 @@
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Annotated Readings of five sources          | [check list](#)
-| FAQ Participation                           | [Lab 0](#)
-| Find three original sources                 | [Lab 1](#)
-| Create a Startup                            | [what?](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/2/README.md#startup-overview)
-| Debate                                      | Prepare for and conduct [debate](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/README.md#debate)
+| Annotated Readings of five sources          | [Media list](https://github.com/kyle1james/networks_unit#multimedia-list)
+| FAQ Participation                           | [FAQ](#)
+| Find three original sources                 | Annotate sources
+| Internet scavenger hunt                     | [Field Work?](#)
 | Teacher Check-ins                           | Minimum three per group
-| Ted talk or Pitch of Startup                | What makes [sense]() 
 | Daily Ideas and Tasks                       | [Who did what]()
+| First prototype                             | [minimum viable product](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#mvp)
+| Three POV's                                 | [POV](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#pov-statements) Notes should be documented
+| Three empathy interviews                    | [Empathy Interviews](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#empathy-interviews) should be documented
+| Three assumption tests                      | [Tests](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#assumption-testing) should be documented
+| Three major changes to final product        | Based off of empathy interviews and assumption tests
+| Time line and TODO's                        | Create a timeline for building and lanuching your MVP and second prototype
+| Second prototype                            | Highlight what has been changed and why
+| Daily documentation                         | [Detail](https://github.com/kyle1james/9th_grade_boot_camp/blob/master/how_to_things.md#daily-ideas-and-tasks)  who did what and any ideas
+| Conduct Debate                              | [link](https://github.com/kyle1james/9th_grade_boot_camp#debate) Speech one done, highlight potential counter arguments
+| Public Presentation                         | [Ted Talk](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#ted-talk) or [Pitch](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#pitch) for funding
 
 # Class Links:
 
@@ -73,4 +81,67 @@ Manjoo, F. (2018, February 09). Welcome to the Post-Text Future. Retrieved from 
 Wall Street Journal. (2015, February 26). Net Neutrality Explained. Retrieved from https://www.youtube.com/watch?v=p90McT24Z6w
 
 Shuler, R. (n.d.). How Does the Internet Work? Retrieved from https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+
+### Daily Ideas and Tasks
+Your group should have a google doc that details what was done by whom for everyday of class. This is to track work, to make sure the work load is fair, and to keep a record of ideas. This isn't meant to be busy work or to take a long time. At the end of each class you will be given 5 mins to fill this out and to check the FAQ.
+
+Your ideas are any thoughts- however strange- in connection with class and the end goal of this unit: creating a startup. By the time we get to the last lab you will have several ideas documented about what you want your startup to do, what role you want to play, and a deeper understanding of how your team works.
+
+Feel free to keep a notebook.
+
+
+**Example Ideation in Notebook**
+
+![notebook](https://github.com/kyle1james/led_art_example/blob/master/pic00.JPG)
+
+# LEAN 
+![lean](https://cdn-images-1.medium.com/max/1600/1*on4F6YPMJ4GPq95VVYVFrw.gif)
+
+## MVP
+
+| Reading                                     | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| leanstack                                   |[minimum viable product](http://ask.leanstack.com/lean-startup-fundamentals/what-is-a-minimum-viable-product-mvp)
+
+![lean2](https://www.lightcastlebd.com/wp-content/uploads/2017/07/MVP-lean.jpg)
+
+A minimum viable product (MVP) is a product with just enough features to satisfy early customers, and to provide feedbac k for future product development (wiki)
+
+- Go through your notes of ideas for your final product and choose a goal for your startup
+- [Formulate an elevator pitch](https://www.forbes.com/sites/chicceo/2013/02/05/how-to-create-an-elevator-pitch/#761ac39861eb) of how you will meet your startup's goal
+- Highlight three assumptions your startup has and
+- Conduct three assumption [tests](https://github.com/kyle1james/9th_grade_boot_camp/tree/master/2#assumption-testing) documenting your interviews
+- From your assumption testing notes, create three POV statements with your group
+- Outline who will do what for creating the MVP
+- Create one MVP with your group
+
+
+
+## Empathy Interviews
+
+| Reading                                     | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| Medium                                      |[What is an empathy interview](https://medium.com/@StaceyDyer/design-thinking-what-is-an-empathy-interview-25f71bd496d7)
+
+![rsearch](https://gifer.com/i/7jLl.gif)
+
+Empathy interviews are the cornerstone of Design Thinking. Through ethnographic research techniques. 
+
+- Once you have finished your MVP conduct a minimum of three empathy interviews: with the goal of conducting several
+- Take notes during and after your MVP interviews
+- Highlight three things you want to change based off of your empathy interviews
+- Do you need to do more testing? Meet with a teacher to find out
+- Outline who will do what for creating the second prototype
+- Create the second prototype with your group 
+
+
+### Assumption Testing
+
+| Reading                                     | Link         
+| --------------------------------------------|------------------------------------------------------------------------------
+| Medium                                      |[assumption testing](https://medium.com/product-ponderings/assumption-validation-flowchart-9dc42293b612)
+
+![atesting](https://i.gifer.com/Y4Cu.gif)
+
+Before you decide what to build think about what assumptions are being made. After you’ve identified them… VALIDATE!!! If you’re a higher level manager, you should always ask, “What decisions associated with the product have been tested?” This will allow you to know how many assumptions have been validated in steps like the below.
 
