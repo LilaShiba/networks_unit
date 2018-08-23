@@ -13,7 +13,6 @@ The internet is notable for its decentralization. No one owns the internet or co
 Most people access internet content using a web browser. Indeed, the web has become so popular that many people incorrectly treat the internet and the web as synonymous. But in reality, the web is just one of many internet applications [source](https://www.vox.com/cards/the-internet/what-is-the-internet). 
 
 # Playlist Overview for Build a Better Web
-![bee](https://i.gifer.com/85vT.gif)
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
