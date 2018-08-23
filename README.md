@@ -1,9 +1,10 @@
 # Build a Better Web
-![pic1](https://media1.tenor.com/images/623d22e3fd55bd5f1e075e579ba2211d/tenor.gif?itemid=3565072)
 
 **Goal**: Create a product to better explain the internet or to make the internet better
 
 **What is the Internet**
+
+![pic2](https://media1.tenor.com/images/9d9f2622976f5bcee5e5f388ec96d638/tenor.gif?itemid=9338766)
 
 The internet is the world’s most popular computer network. It began as an academic research project in 1969, and became a global commercial network in the 1990s. Today it is used by more than 2 billion people around the world.
 
@@ -12,6 +13,7 @@ The internet is notable for its decentralization. No one owns the internet or co
 Most people access internet content using a web browser. Indeed, the web has become so popular that many people incorrectly treat the internet and the web as synonymous. But in reality, the web is just one of many internet applications [source](https://www.vox.com/cards/the-internet/what-is-the-internet). 
 
 # Playlist Overview for Build a Better Web
+![bee](https://i.gifer.com/85vT.gif)
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
@@ -46,18 +48,20 @@ Most people access internet content using a web browser. Indeed, the web has bec
 
 ![shiba](https://thumbs.gfycat.com/DirtyDefiantAstarte-max-1mb.gif)
 
-#### How does the internet work?
+### How does the internet work?
 - Google (money from data)
 - Physical infrastructure (from netflix to you)
 - API
 - Digital infrastructure
 
-#### Evolution of the Web
+### Evolution of the Web
 - Decentralized (blockchain, net neutrality)
 - Big Data: AI (singularity?)
 - Fake News & Social Media (the future of humanity)
 
 ### Product Examples
+
+![int](http://mocomipullzone.anibraindigitalt.netdna-cdn.com/wp-content/uploads/2016/10/MOC_GIFO_INTERNET.gif)
 
 |Media Type| What                                           | Link         
 |----------|------------------------------------------------|---------------------------------------------------------------------------
