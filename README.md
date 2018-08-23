@@ -6,12 +6,12 @@
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Annotated Readings of three sources          | [Media list](https://github.com/kyle1james/networks_unit#multimedia-list)
-| FAQ Participation                           | [FAQ](https://github.com/kyle1james/networks_unit#class-links)
+| Annotated readings of three sources          | [Media list](https://github.com/kyle1james/networks_unit#multimedia-list)
+| FAQ participation                           | [FAQ](https://github.com/kyle1james/networks_unit#class-links)
 | Find three original sources                 | Annotate sources
 | Internet scavenger hunt                     | [Field Work?](#)
-| Teacher Check-ins                           | [Minimum](https://github.com/kyle1james/networks_unit#class-links) three per group
-| Daily Ideas and Tasks                       | [Ideas and Tasks](https://github.com/kyle1james/networks_unit#daily-ideas-and-tasks)
+| Teacher check-ins                           | [Minimum](https://github.com/kyle1james/networks_unit#class-links) three per group
+| Daily ideas and tasks                       | [Ideas and Tasks](https://github.com/kyle1james/networks_unit#daily-ideas-and-tasks)
 | First prototype                             | [minimum viable product]()
 | Three POV's                                 | [POV]() Notes should be documented
 | Three empathy interviews                    | [Empathy Interviews](https://github.com/kyle1james/networks_unit#empathy-interviews) should be documented
@@ -19,7 +19,7 @@
 | Three major changes to final product        | Based off of empathy interviews and assumption tests
 | Time line and TODO's                        | Create a timeline for building and lanuching your **MVP** and **second prototype**
 | Second prototype                            | Highlight what has been changed and why
-| Public Presentation                         | [Examples](https://github.com/kyle1james/networks_unit#product-examples)
+| Public presentation                         | [Examples](https://github.com/kyle1james/networks_unit#product-examples)
 
 # Class Links:
 
