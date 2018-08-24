@@ -45,7 +45,7 @@ Most people access internet content using a web browser. Indeed, the web has bec
 
 # Areas of Focus
 
-![shiba](https://thumbs.gfycat.com/DirtyDefiantAstarte-max-1mb.gif)
+![shiba](https://thumbs.gfycat.com/FirstAcceptableAdder-small.gif)
 
 ### How does the internet work?
 - Google (money from data)
@@ -68,7 +68,8 @@ Most people access internet content using a web browser. Indeed, the web has bec
 | Game     | models how fake news is spread online          | [Bad News](https://www.getbadnews.com/#play)
 | Website  | An online field guide to network infrastructure| [Networks of New York](http://seeingnetworks.in/nyc/)
 | Model    | One of many ways to ‘see’ the physical web     | [Visualization of Web](https://en.wikipedia.org/wiki/Computer_network)
-| Media    |Social Media Account                            |
+| Tour     | Internet Field Guide                           | [NYC Guide](https://www.wired.com/2015/02/field-guide-internet-infrastructure-hides-plain-sight/)
+| Media    |Social Media Account                            | [NY Times](https://www.nytimes.com/2018/07/31/us/politics/facebook-political-campaign-midterms.html)
 
 # Multimedia List
 
