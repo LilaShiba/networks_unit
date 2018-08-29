@@ -74,6 +74,8 @@ Most people access internet content using a web browser. Indeed, the web has bec
 
 Blum, A. (2012, June). Discover the physical side of the internet. Retrieved from https://www.ted.com/talks/andrew_blum_what_is_the_internet_really
 
+Code.org (2018, August). Video Resources. https://code.org/educate/resources/videos
+
 Enikeev, R. (2011). The Internet Map. Retrieved from http://internet-map.net/
 
 How does the Internet work? (n.d.). Retrieved from https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
