@@ -68,6 +68,25 @@ Most people access internet content using a web browser. Indeed, the web has bec
 | Tour     | Internet Field Guide                           | [NYC Guide](https://www.wired.com/2015/02/field-guide-internet-infrastructure-hides-plain-sight/)
 | Media    |Social Media Account                            | [NY Times](https://www.nytimes.com/2018/07/31/us/politics/facebook-political-campaign-midterms.html)
 
+# Annotated Reading
+Summarize and analyze the sources that you have selected in a short paragraph.You may want to consider the following questions:
+
+- Are there any features that your sources have in common?  
+- Are there any ways that your sources are related to one another?
+- Which is your most valuable source of inspiration?  Why?
+- Which is your least valuable source of inspiration?  Why?
+
+**OR**
+
+# Think Tank
+We will divide the media list amongst the class. Each student will read three separate sources. While analyzing said media write on post-it’s:
+
+- Main idea or claim
+- Evidence supporting main idea or claim
+- Interesting facts
+
+
+
 # Multimedia List
 
 Blum, A. (2012, June). Discover the physical side of the internet. Retrieved from https://www.ted.com/talks/andrew_blum_what_is_the_internet_really
