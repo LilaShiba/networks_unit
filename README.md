@@ -111,13 +111,30 @@ Wall Street Journal. (2015, February 26). Net Neutrality Explained. Retrieved fr
 
 Shuler, R. (n.d.). How Does the Internet Work? Retrieved from https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
 
-### Daily Ideas and Tasks
+# Daily Ideas and Tasks
+
+### Ideas
 
 Your group should have a google doc that details what was done by whom for everyday of class. This is to track work, to make sure the work load is fair, and to keep a record of ideas. This isn't meant to be busy work or to take a long time. At the end of each class you will be given 5 mins to fill this out and to check the FAQ.
 
 Your ideas are any thoughts- however strange- in connection with class and the end goal of this unit: building a better internet. By the time we get to the last lab you will have several ideas documented about what you want your group to do, what role you want to play, and a deeper understanding of how your team works.
 
 Feel free to keep a notebook.
+
+### SCRUM: Daily Tasks
+Your group should have a scrum meeting every class. This is [why](https://www.youtube.com/watch?v=TRcReyRYIMg). At the start or end of each class you will be given 5 mins to fill this out and to check the FAQ.
+
+
+**Examples**
+[scrum](https://blog.rapidapi.com/beyond-scrum-getting-to-continuous-deployment/)
+
+![scrum](https://blog.rapidapi.com/wp-content/uploads/2017/08/giphy-16.gif)
+
+Feel free to keep a notebook or use digital means: [trello](https://trello.com/)
+
+A good ole whiteboard and post-its works fine too:
+
+![pic](http://robertostefanettinavblog.com/wp-content/uploads/2016/01/3879260297_dfc867d531_b.jpg)
 
 **Example Ideation in Notebook**
 
