@@ -21,7 +21,7 @@ Most people access internet content using a web browser. Indeed, the web has bec
 | FAQ participation                           | [FAQ](https://github.com/kyle1james/networks_unit#class-links)
 | Find three original sources                 | Annotate sources
 | Teacher check-ins                           | [Minimum](https://github.com/kyle1james/networks_unit#class-links) three per group
-| Daily ideas and tasks (Notebook)            | [Ideas and Tasks](https://github.com/kyle1james/networks_unit#daily-ideas-and-tasks)
+| Daily ideas and tasks (Notebook)            | [Ideas and Tasks]https://github.com/kyle1james/networks_unit#daily-ideas-and-tasks)
 | First prototype                             | [minimum viable product](https://github.com/kyle1james/networks_unit#mvp)
 | Three POV's                                 | [POV]() Notes should be documented
 | Three empathy interviews                    | [Empathy Interviews](https://github.com/kyle1james/networks_unit#empathy-interviews) should be documented
