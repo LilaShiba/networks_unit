@@ -16,17 +16,18 @@ Most people access internet content using a web browser. Indeed, the web has bec
 
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Annotated reading: of three sources         | [Media list](https://github.com/kyle1james/networks_unit#multimedia-list)
+| Draw the Internet                           | Class activity
+| Annotated readings of three sources         | [Media list](https://github.com/kyle1james/networks_unit#multimedia-list)
 | FAQ participation                           | [FAQ](https://github.com/kyle1james/networks_unit#class-links)
 | Find three original sources                 | Annotate sources
 | Teacher check-ins                           | [Minimum](https://github.com/kyle1james/networks_unit#class-links) three per group
-| Daily ideas and tasks                       | [Ideas and Tasks](https://github.com/kyle1james/networks_unit#daily-ideas-and-tasks)
+| Daily ideas and tasks (Notebook)            | [Ideas and Tasks](https://github.com/kyle1james/networks_unit#daily-ideas-and-tasks)
 | First prototype                             | [minimum viable product](https://github.com/kyle1james/networks_unit#mvp)
 | Three POV's                                 | [POV]() Notes should be documented
 | Three empathy interviews                    | [Empathy Interviews](https://github.com/kyle1james/networks_unit#empathy-interviews) should be documented
 | Three assumption tests                      | [Tests](https://github.com/kyle1james/networks_unit#assumption-testing) should be documented
 | Three major changes to final product        | Based off of empathy interviews and assumption tests
-| Time line and TODO's                        | Create a timeline for building and lanuching your **MVP** and **second prototype**
+| Time line and TODO's  (SCRUM BOARD)         | Create a timeline for building and lanuching your **MVP** and **second prototype**
 | Second prototype                            | Highlight what has been changed and why
 | Public presentation                         | [Examples](https://github.com/kyle1james/networks_unit#product-examples)
 
@@ -34,12 +35,8 @@ Most people access internet content using a web browser. Indeed, the web has bec
 
 | What                                        | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Mr. James meeting sign up                   | [link]("#")
-| Mr. Moran meeting sign up                   | [link]("#")
-| Mrs. Ju meeting sign up                     | [link]("#")
-| Mr. New Guy sign up                         | [link]("#")
-| Digital FAQ                                 | [link]("#")
-| Analog FAQ                                  | [link]("#")
+| Mr. James meeting sign up                   | [gdoc](https://docs.google.com/document/d/1VknOkPC--6eYH2OcUoQ5tmSSGXx64Fi98aqfl9lR2lM/edit?usp=sharing)
+
 
 
 # Areas of Focus
