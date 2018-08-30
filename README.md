@@ -17,7 +17,7 @@ Most people access internet content using a web browser. Indeed, the web has bec
 | Goal                                        | Method         
 | --------------------------------------------|------------------------------------------------------------------------------
 | Draw the Internet                           | Class activity
-| Annotated readings of three sources         | [Media list](https://github.com/kyle1james/networks_unit#multimedia-list)
+| Annotated readings or Think Tank            | [Media list](https://github.com/kyle1james/networks_unit#multimedia-list)
 | FAQ participation                           | [FAQ](https://github.com/kyle1james/networks_unit#class-links)
 | Find three original sources                 | Annotate sources
 | Teacher check-ins                           | [Minimum](https://github.com/kyle1james/networks_unit#class-links) three per group
@@ -27,7 +27,7 @@ Most people access internet content using a web browser. Indeed, the web has bec
 | Three empathy interviews                    | [Empathy Interviews](https://github.com/kyle1james/networks_unit#empathy-interviews) should be documented
 | Three assumption tests                      | [Tests](https://github.com/kyle1james/networks_unit#assumption-testing) should be documented
 | Three major changes to final product        | Based off of empathy interviews and assumption tests
-| Time line and TODO's  (SCRUM BOARD)         | Create a timeline for building and lanuching your **MVP** and **second prototype**
+| Time line and TODO's  (SCRUM BOARD)         | [scrum](https://github.com/kyle1james/networks_unit/blob/master/README.md#scrum-daily-tasks)
 | Second prototype                            | Highlight what has been changed and why
 | Public presentation                         | [Examples](https://github.com/kyle1james/networks_unit#product-examples)
 
