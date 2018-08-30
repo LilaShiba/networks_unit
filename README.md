@@ -35,7 +35,8 @@ Most people access internet content using a web browser. Indeed, the web has bec
 
 | What                                        | Link         
 | --------------------------------------------|------------------------------------------------------------------------------
-| Mr. James meeting sign up                   | [gdoc](https://docs.google.com/document/d/1VknOkPC--6eYH2OcUoQ5tmSSGXx64Fi98aqfl9lR2lM/edit?usp=sharing)
+|  Meeting sign up                            | [gdoc](https://docs.google.com/document/d/1VknOkPC--6eYH2OcUoQ5tmSSGXx64Fi98aqfl9lR2lM/edit?usp=sharing)
+| FAQ                                         | [gdoc](https://docs.google.com/document/d/1ADuCQYDulnE2X4HEDt4OjJczRdTX9kCnjnMghSXL-JY/edit?usp=sharing)
 
 
 
